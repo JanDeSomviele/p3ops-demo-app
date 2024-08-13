@@ -4,7 +4,7 @@ services:
       context: .
       target: final
     ports:
-      - 8080:80
+      - 9091:80
     environment:
       DOTNET_ConnectionStrings__SqlDatabase: "Server=db;Database=myDataBase;User ID=sa;Password=example_123;"
   db:
