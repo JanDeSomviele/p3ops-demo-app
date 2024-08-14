@@ -101,8 +101,8 @@
         }
 
     .pageloader.is-primary {
-        background-color: #00d1b2;
-        background: #00d1b2
+        background-color: #26df;
+        background: #26df
     }
 
         .pageloader.is-primary::after {
