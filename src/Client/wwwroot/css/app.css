@@ -1,5 +1,5 @@
 ﻿#app{
-    background-color: #26b050;
+    background: #26b050;
 }
 
 .valid.modified:not([type=checkbox]) {
