@@ -1,5 +1,5 @@
 ﻿#app{
-    background: #5b26b0;
+    background: hsl(130, 50%, 68%);
 }
 
 .valid.modified:not([type=checkbox]) {
